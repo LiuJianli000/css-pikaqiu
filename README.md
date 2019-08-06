@@ -14,9 +14,9 @@ https://liujianli000.github.io/css-pikaqiu/index.html
 - 用伪元素 ::before 和 ::after
 - 用 transfrom 做变形处理
 - 用 border 做线条处理
-- 用 media 媒体查询
 
 ###### 简单的移动端适配
+- 用 media 媒体查询
 
 #### 关键字
 - html
