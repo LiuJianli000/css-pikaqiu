@@ -16,7 +16,7 @@ https://liujianli000.github.io/css-pikaqiu/index.html
 - 用 border 做线条处理
 
 ###### 简单的移动端适配
-- <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable: no">
+- `<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable: no">`
 - 用 media 媒体查询
 
 #### 关键字
